@@ -21,7 +21,7 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javacript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pythone/pythone-original.svg" height="40" alt="phythone logo"  />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pythone/pythone-original.svg" height="40" alt="pythone logo"  />
   <img width="12" />
   
 ###
